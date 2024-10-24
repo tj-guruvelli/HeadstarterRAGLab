@@ -29,7 +29,7 @@ Free Llama 3.1 API via Groq
 
 
 ### Load in the Data
-- Learn more about the dataset here
+- Learn more about the dataset [here](https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fayoubcherguelaine%2Fcompany-documents-dataset)
 
 ### Initialize Pinecone
 - It takes a few minutes to intialize
