@@ -37,8 +37,8 @@ Using PINECONE and GROQ as open-source tools for demonstration and accessibility
 - Split different comapnies into different NAMESPACES
 
 
-Insert data into Pinecone
-This prints out the documents strutcures
-'File' is the path to data files
-'Data' is the actual content in the file
-Way to represent pdfs and extracted text
+### Insert data into Pinecone
+- This prints out the documents strutcures
+- 'File' is the path to data files
+- 'Data' is the actual content in the file
+- Way to represent pdfs and extracted text
