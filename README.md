@@ -19,8 +19,7 @@ Using PINECONE and GROQ as open-source tools for demonstration and accessibility
 
 
 ### Initialize the Groq client
-# Free Llama 3.1 API via Groq
-```groq_client = Groq(api_key=os.getenv('GROQ_API_KEY'))```
+```Free Llama 3.1 API via Groq groq_client = Groq(api_key=os.getenv('GROQ_API_KEY'))```
 
 
 ### Calculating sentence similarity with embeddings
